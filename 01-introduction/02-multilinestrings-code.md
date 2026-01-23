@@ -87,6 +87,4 @@ You can use escaped characters (e.g. \n, \t), use string formatting, etc.
 A multi-line string is just a regular string.
 Multi-line strings are not comments, although they can be used as such,especially with special comments called docstrings.
 
-![code snippet](imgs\image.png)
-
 

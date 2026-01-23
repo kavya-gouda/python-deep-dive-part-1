@@ -39,4 +39,15 @@ Thie repo will have
 6. break, contnue and try
 7. classes
 
+----
 
+This is an intermediate to advanced Python course.
+
+To have the full benefit of this course you should be comfortable with the basic Python language including:
+
+variables and simple types such as str , bool , int  and float  types
+for  and while  loops
+if...else...  statements
+defining functions (using the def  statement)
+writing simple classes using the class  keyword and the __init__  function
+using simple lists , tuples , dictionaries  and sets 
